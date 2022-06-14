@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+I'm a git genius now!
+Tue 14 Jun 2022 04:15:53 PM UTC
+>>>>>>> test
