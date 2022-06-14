@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
-I'm a git genius now!
+I'm a git master now!
 Tue 14 Jun 2022 04:15:53 PM UTC
->>>>>>> test
